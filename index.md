@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jeevan Polisetty's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jeevan Polisetty
+Double Major, Electrical Engineering and Computer Engineering; Minor in Mathematics
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
