@@ -52,7 +52,7 @@ title: Jeevan Polisetty's CV
 <section>
   <h2>Education</h2>
   <p><strong>Michigan State University, Honors College, College of Engineering</strong>, East Lansing, MI<br>
-  Bachelor of Science in Computer Engineering, Minor in Mathematics<br>
+  Bachelor of Science in Electrical Engineering and Computer Engineering, Minor in Mathematics<br>
   <em>August 2024 – Present</em><br>
   - Dean's List (all eligible semesters)</p>
 
