@@ -2,10 +2,6 @@
 layout: cv
 title: Jeevan Polisetty's CV
 ---
----
-layout: default
-title: Jeevan Polisetty's CV
----
 
 <style>
   body {
@@ -16,7 +12,6 @@ title: Jeevan Polisetty's CV
     margin: 40px auto;
     padding: 30px;
     line-height: 1.6;
-    background: #f2f2f2;
   }
 
   h1, h2 {
@@ -37,6 +32,11 @@ title: Jeevan Polisetty's CV
 
   section {
     margin-bottom: 30px;
+  }
+
+  a {
+    color: #0366d6;
+    text-decoration: none;
   }
 </style>
 
@@ -100,11 +100,3 @@ title: Jeevan Polisetty's CV
     <li>Hardware: Soldering, wiring, battery systems</li>
   </ul>
 </section>
-
-
-
-<!-- ### Footer
-
-Last updated: June 2024 -->
-
-
