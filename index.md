@@ -1,6 +1,8 @@
 ---
+
 layout: cv
 title: Jeevan Polisetty's CV
+
 ---
 
 <style>
@@ -17,7 +19,8 @@ title: Jeevan Polisetty's CV
   h1, h2 {
     border-bottom: 1px solid #ccc;
     padding-bottom: 4px;
-    margin-top: 30px;
+    margin-top: 10px;
+    font-size:2.5em;
   }
 
   #contact {
