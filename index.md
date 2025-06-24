@@ -2,90 +2,109 @@
 layout: cv
 title: Jeevan Polisetty's CV
 ---
-# Jeevan Polisetty
-Double Major, Electrical Engineering and Computer Engineering; Minor in Mathematics
+---
+layout: default
+title: Jeevan Polisetty's CV
+---
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+<style>
+  body {
+    font-family: 'Helvetica Neue', sans-serif;
+    background-color: #f2f2f2;
+    color: #222;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 30px;
+    line-height: 1.6;
+    background: #f2f2f2;
+  }
 
+  h1, h2 {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 4px;
+    margin-top: 30px;
+  }
 
-## Currently
+  #contact {
+    margin-top: -15px;
+    font-size: 0.9em;
+    color: #444;
+  }
 
-Standing on the shoulders of giants
+  ul {
+    padding-left: 20px;
+  }
 
-### Specialized in
+  section {
+    margin-bottom: 30px;
+  }
+</style>
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+<h1>Jeevan Polisetty</h1>
+<p id="contact">
+  Novi, Michigan • <a href="mailto:jeevan.polisetty@gmail.com">jeevan.polisetty@gmail.com</a> • (248) 787-8200 •
+  <a href="https://www.linkedin.com/in/jeevan-polisetty">LinkedIn</a>
+</p>
 
+<section>
+  <h2>Education</h2>
+  <p><strong>Michigan State University, Honors College, College of Engineering</strong>, East Lansing, MI<br>
+  Bachelor of Science in Computer Engineering, Minor in Mathematics<br>
+  <em>August 2024 – Present</em><br>
+  - Dean's List (all eligible semesters)</p>
 
-### Research interests
+  <p><strong>Novi High School</strong>, Novi, MI<br>
+  <em>September 2020 – May 2024</em><br>
+  - Took additional coursework in Java Data Structures and Linear Algebra at local community college</p>
+</section>
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+<section>
+  <h2>Experience</h2>
 
+  <p><strong>Undergraduate Research Assistant – MSU ECE Dept</strong>, East Lansing, MI<br>
+  <em>August 2025 – Present</em><br>
+  Assisting Dr. Navid Yazdi with research on high-performance analog-digital ICs using SPICE, MATLAB, and Cadence. Involved in literature review, technical documentation, and presenting outcomes.</p>
 
-## Education
+  <p><strong>TWIG Power – Production Assistant</strong>, Novi, MI<br>
+  <em>August 2023 – August 2024</em><br>
+  - Produced PCBs using Neo-Den pick and place machine<br>
+  - Accelerated wire harness and battery production<br>
+  - Repaired KTM SX-E batteries and motors<br>
+  - Packaged and assembled modules and harnesses</p>
 
-`1654-1660`
-__The King's School, Grantham.__
+  <p><strong>FRC Robotics Team 503 – Drivetrain Lead</strong>, Novi, MI<br>
+  <em>July 2020 – April 2024</em><br>
+  - Led robot drivetrain design and wiring<br>
+  - Calculated optimal gear ratios for speed/torque<br>
+  - Used Inventor & Fusion 360 to 3D print components<br>
+  - Wired and installed over 20 motors across robots</p>
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+  <p><strong>MSU EGR 100 – Intro Engineering Design</strong>, East Lansing, MI<br>
+  <em>October 2024 – Present</em><br>
+  - Collaborated on building a phone app with MIT App Inventor and cloud-based leaderboard</p>
+</section>
 
-- Sizar
+<section>
+  <h2>Involvement</h2>
+  <ul>
+    <li>Michigan State University Baja SAE – Member (2024 – Present)</li>
+  </ul>
+</section>
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+<section>
+  <h2>Technical Skills</h2>
+  <ul>
+    <li>Languages: Java, Python</li>
+    <li>Tools: Microsoft Suite, Adobe Lightroom/Photoshop, Canva</li>
+    <li>CAD & Design: Fusion 360, Inventor, 3D print slicing</li>
+    <li>Hardware: Soldering, wiring, battery systems</li>
+  </ul>
+</section>
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: June 2024 -->
 
 
